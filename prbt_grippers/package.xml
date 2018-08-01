@@ -1,7 +1,7 @@
 <package format="2">
   <name>prbt_grippers</name>
   <version>0.0.1</version>
-  <description>The metapackage</description>
+  <description>The package provides gripper support for the pilz_robots package.</description>
 
   <url type="website">http://ros.org/wiki/prbt_grippers</url>
 

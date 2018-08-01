@@ -7,7 +7,5 @@ catkin_package()
 #############
 ## Install ##
 #############
-
-## Install URDF and meshes
 install(DIRECTORY urdf DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
 install(DIRECTORY config DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})

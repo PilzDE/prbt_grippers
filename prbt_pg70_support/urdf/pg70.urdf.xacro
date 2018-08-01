@@ -15,6 +15,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
+
 <gripper name="pg70" xmlns:xacro="http://www.ros.org/wiki/xacro">
   <!-- Load pg70 gripper macro -->
   <xacro:include filename="$(find schunk_description)/urdf/pg70/pg70.urdf.xacro" />
