@@ -2,6 +2,6 @@
 Changelog for package prbt_grippers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.1 (forthcoming)
--------------------
+0.0.1 (2018-08-14)
+------------------
 * initial release
