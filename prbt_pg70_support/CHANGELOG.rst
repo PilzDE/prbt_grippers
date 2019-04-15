@@ -2,6 +2,11 @@
 Changelog for package prbt_pg70_support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Omit definition of gripper brackets in pg70.urdf.xacro
+* Contributors: Pilz GmbH and Co. KG
+
 0.0.2 (2019-04-01)
 ------------------
 * Mark gripper as end_effector
