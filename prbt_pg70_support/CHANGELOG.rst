@@ -2,6 +2,11 @@
 Changelog for package prbt_pg70_support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* define xacro macro for the pg70
+* Contributors: Pilz GmbH and Co. KG
+
 0.0.3 (2019-04-24)
 ------------------
 * Move the include of gripper brackets to prbt_support
