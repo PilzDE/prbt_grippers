@@ -4,6 +4,7 @@ Changelog for package prbt_pg70_support
 
 Forthcoming
 -----------
+* Move the include of gripper brackets to prbt_support
 * Omit definition of gripper brackets in pg70.urdf.xacro
 * Contributors: Pilz GmbH and Co. KG
 
